@@ -4,18 +4,20 @@
     "url": "https://www.bellbella.com",
     "icon": "https://favicons.githubusercontent.com/www.bellbella.com",
     "slug": "bell-bella",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 304,
-    "timeWeek": 304,
-    "timeMonth": 304,
-    "timeYear": 304,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 3824,
+    "timeDay": 5584,
+    "timeWeek": 3824,
+    "timeMonth": 3824,
+    "timeYear": 3824,
+    "dailyMinutesDown": {
+      "2021-05-28": 0
+    }
   },
   {
     "name": "UserToken",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 6753,
-    "timeDay": 6753,
-    "timeWeek": 6753,
-    "timeMonth": 6753,
-    "timeYear": 6753,
+    "time": 3499,
+    "timeDay": 244,
+    "timeWeek": 3499,
+    "timeMonth": 3499,
+    "timeYear": 3499,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 107,
-    "timeWeek": 107,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "time": 103,
+    "timeDay": 98,
+    "timeWeek": 103,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {}
   }
 ]
