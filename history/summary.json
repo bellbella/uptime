@@ -25,7 +25,7 @@
     "url": "https://www.usertoken.com",
     "icon": "https://favicons.githubusercontent.com/www.usertoken.com",
     "slug": "user-token",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 1483,
     "timeMonth": 887,
     "timeYear": 1988,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-07": 0
+    }
   },
   {
     "name": "PointLook",
