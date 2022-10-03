@@ -2,21 +2,22 @@
   {
     "name": "BellBella",
     "url": "https://www.bellbella.com",
-    "icon": "https://favicons.githubusercontent.com/www.bellbella.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "33.56%",
+    "uptime": "33.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "10.56%",
-    "time": 739,
+    "time": 740,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 880,
     "dailyMinutesDown": {
-      "2022-10-02": 53,
+      "2022-10-03": 45,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -348,28 +349,28 @@
       "2021-10-07": 1440,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
-      "2021-10-04": 1440,
-      "2021-10-03": 1440
+      "2021-10-04": 1440
     }
   },
   {
     "name": "UserToken",
     "url": "https://www.usertoken.com",
-    "icon": "https://favicons.githubusercontent.com/www.usertoken.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "down",
-    "uptime": "17.35%",
+    "uptime": "17.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "1.66%",
-    "time": 834,
+    "time": 828,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2022-10-02": 54,
+      "2022-10-03": 45,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -728,28 +729,28 @@
       "2021-10-07": 1440,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
-      "2021-10-04": 1440,
-      "2021-10-03": 1440
+      "2021-10-04": 1440
     }
   },
   {
     "name": "PointLook",
     "url": "https://www.pointlook.com",
-    "icon": "https://favicons.githubusercontent.com/www.pointlook.com",
+    "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "35.08%",
+    "uptime": "35.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "12.56%",
-    "time": 469,
+    "time": 470,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 615,
     "dailyMinutesDown": {
-      "2022-10-02": 54,
+      "2022-10-03": 45,
+      "2022-10-02": 1440,
       "2022-10-01": 1440,
       "2022-09-30": 1440,
       "2022-09-29": 1440,
@@ -1076,8 +1077,7 @@
       "2021-10-07": 1440,
       "2021-10-06": 1440,
       "2021-10-05": 1440,
-      "2021-10-04": 1440,
-      "2021-10-03": 1440
+      "2021-10-04": 1440
     }
   }
 ]
