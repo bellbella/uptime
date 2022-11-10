@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "31.16%",
+    "uptime": "31.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 953,
+    "timeYear": 956,
     "dailyMinutesDown": {
-      "2022-11-09": 40,
+      "2022-11-10": 40,
+      "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
       "2022-11-06": 1440,
@@ -351,8 +352,7 @@
       "2021-12-08": 1440,
       "2021-12-07": 1440,
       "2021-12-06": 1071,
-      "2021-12-04": 59,
-      "2021-11-10": 283
+      "2021-12-04": 59
     }
   },
   {
@@ -361,18 +361,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "down",
-    "uptime": "16.11%",
+    "uptime": "16.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "1.66%",
-    "time": 527,
+    "time": 520,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 242,
     "dailyMinutesDown": {
-      "2022-11-09": 40,
+      "2022-11-10": 40,
+      "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
       "2022-11-06": 1440,
@@ -731,8 +732,7 @@
       "2021-11-14": 1440,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
-      "2021-11-11": 1440,
-      "2021-11-10": 1440
+      "2021-11-11": 1440
     }
   },
   {
@@ -741,18 +741,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "32.56%",
+    "uptime": "32.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "8.07%",
-    "time": 510,
+    "time": 512,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 676,
+    "timeYear": 678,
     "dailyMinutesDown": {
-      "2022-11-09": 40,
+      "2022-11-10": 40,
+      "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
       "2022-11-06": 1440,
@@ -1091,8 +1092,7 @@
       "2021-11-14": 447,
       "2021-11-13": 1440,
       "2021-11-12": 1440,
-      "2021-11-11": 1440,
-      "2021-11-10": 1440
+      "2021-11-11": 1440
     }
   }
 ]
