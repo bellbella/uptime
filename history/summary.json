@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "25.81%",
+    "uptime": "25.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 936,
+    "time": 939,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1036,
+    "timeYear": 1037,
     "dailyMinutesDown": {
-      "2023-02-27": 36,
+      "2023-02-28": 36,
+      "2023-02-27": 1440,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
@@ -379,8 +380,7 @@
       "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
-      "2022-03-01": 1440,
-      "2022-02-28": 1440
+      "2022-03-01": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "18.14%",
+    "uptime": "18.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.18%",
-    "uptimeYear": "8.43%",
-    "time": 229,
-    "timeDay": 117,
-    "timeWeek": 190,
-    "timeMonth": 168,
-    "timeYear": 211,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "8.70%",
+    "time": 228,
+    "timeDay": 105,
+    "timeWeek": 175,
+    "timeMonth": 159,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2023-01-27": 394,
       "2023-01-26": 1440,
@@ -732,8 +732,7 @@
       "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
-      "2022-03-01": 1440,
-      "2022-02-28": 1440
+      "2022-03-01": 1440
     }
   },
   {
@@ -742,18 +741,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "26.97%",
+    "uptime": "26.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 669,
+    "time": 671,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 725,
+    "timeYear": 727,
     "dailyMinutesDown": {
-      "2023-02-27": 36,
+      "2023-02-28": 36,
+      "2023-02-27": 1440,
       "2023-02-26": 1440,
       "2023-02-25": 1440,
       "2023-02-24": 1440,
@@ -1116,8 +1116,7 @@
       "2022-03-04": 1440,
       "2022-03-03": 1440,
       "2022-03-02": 1440,
-      "2022-03-01": 1440,
-      "2022-02-28": 1440
+      "2022-03-01": 1440
     }
   }
 ]
