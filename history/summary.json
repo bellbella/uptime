@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "25.69%",
+    "uptime": "25.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 946,
+    "time": 949,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1034,
+    "timeYear": 1031,
     "dailyMinutesDown": {
-      "2023-03-02": 39,
+      "2023-03-03": 149,
+      "2023-03-02": 1440,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
@@ -379,8 +380,7 @@
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
-      "2022-03-04": 1440,
-      "2022-03-03": 1440
+      "2022-03-04": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "18.52%",
+    "uptime": "18.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "9.25%",
+    "uptimeYear": "9.54%",
     "time": 227,
-    "timeDay": 114,
-    "timeWeek": 150,
-    "timeMonth": 156,
-    "timeYear": 207,
+    "timeDay": 323,
+    "timeWeek": 168,
+    "timeMonth": 164,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2023-01-27": 394,
       "2023-01-26": 1440,
@@ -729,8 +729,7 @@
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
-      "2022-03-04": 1440,
-      "2022-03-03": 1440
+      "2022-03-04": 1440
     }
   },
   {
@@ -739,18 +738,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "26.84%",
+    "uptime": "26.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 676,
+    "time": 678,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 727,
+    "timeYear": 726,
     "dailyMinutesDown": {
-      "2023-03-02": 39,
+      "2023-03-03": 149,
+      "2023-03-02": 1440,
       "2023-03-01": 1440,
       "2023-02-28": 1440,
       "2023-02-27": 1440,
@@ -1113,8 +1113,7 @@
       "2022-03-07": 1440,
       "2022-03-06": 1440,
       "2022-03-05": 1440,
-      "2022-03-04": 1440,
-      "2022-03-03": 1440
+      "2022-03-04": 1440
     }
   }
 ]
