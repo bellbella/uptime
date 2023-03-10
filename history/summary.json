@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "25.41%",
+    "uptime": "25.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 970,
+    "time": 973,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1028,
+    "timeYear": 1026,
     "dailyMinutesDown": {
-      "2023-03-09": 37,
+      "2023-03-10": 37,
+      "2023-03-09": 1440,
       "2023-03-08": 1440,
       "2023-03-07": 1440,
       "2023-03-06": 1440,
@@ -379,8 +380,7 @@
       "2022-03-14": 1440,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
-      "2022-03-11": 1440,
-      "2022-03-10": 1440
+      "2022-03-11": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "19.40%",
+    "uptime": "19.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.16%",
+    "uptimeYear": "11.44%",
     "time": 226,
-    "timeDay": 188,
-    "timeWeek": 204,
-    "timeMonth": 169,
+    "timeDay": 297,
+    "timeWeek": 200,
+    "timeMonth": 172,
     "timeYear": 206,
     "dailyMinutesDown": {
       "2023-01-27": 394,
@@ -722,8 +722,7 @@
       "2022-03-14": 1440,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
-      "2022-03-11": 1440,
-      "2022-03-10": 1440
+      "2022-03-11": 1440
     }
   },
   {
@@ -732,18 +731,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "26.56%",
+    "uptime": "26.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 690,
+    "time": 692,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 729,
+    "timeYear": 728,
     "dailyMinutesDown": {
-      "2023-03-09": 37,
+      "2023-03-10": 37,
+      "2023-03-09": 1440,
       "2023-03-08": 1440,
       "2023-03-07": 1440,
       "2023-03-06": 1440,
@@ -1106,8 +1106,7 @@
       "2022-03-14": 1440,
       "2022-03-13": 1440,
       "2022-03-12": 1440,
-      "2022-03-11": 1440,
-      "2022-03-10": 1440
+      "2022-03-11": 1440
     }
   }
 ]
