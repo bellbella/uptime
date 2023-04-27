@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "23.66%",
+    "uptime": "23.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1043,
+    "time": 1048,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1019,
+    "timeYear": 1020,
     "dailyMinutesDown": {
-      "2023-04-26": 33,
+      "2023-04-27": 35,
+      "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -379,8 +380,7 @@
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
-      "2022-04-28": 1440,
-      "2022-04-27": 1440
+      "2022-04-28": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "24.94%",
+    "uptime": "25.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.31%",
+    "uptimeYear": "24.59%",
     "time": 214,
-    "timeDay": 63,
-    "timeWeek": 196,
-    "timeMonth": 157,
+    "timeDay": 122,
+    "timeWeek": 197,
+    "timeMonth": 152,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2023-01-27": 394,
@@ -674,8 +674,7 @@
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
-      "2022-04-28": 1440,
-      "2022-04-27": 1440
+      "2022-04-28": 1440
     }
   },
   {
@@ -684,18 +683,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "24.73%",
+    "uptime": "24.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 774,
+    "time": 776,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 719,
+    "timeYear": 718,
     "dailyMinutesDown": {
-      "2023-04-26": 33,
+      "2023-04-27": 35,
+      "2023-04-26": 1440,
       "2023-04-25": 1440,
       "2023-04-24": 1440,
       "2023-04-23": 1440,
@@ -1058,8 +1058,7 @@
       "2022-05-01": 1440,
       "2022-04-30": 1440,
       "2022-04-29": 1440,
-      "2022-04-28": 1440,
-      "2022-04-27": 1440
+      "2022-04-28": 1440
     }
   }
 ]
