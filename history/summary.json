@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "21.97%",
+    "uptime": "21.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1037,
+    "time": 1036,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-19": 38,
+      "2023-06-20": 34,
+      "2023-06-19": 1440,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
@@ -379,8 +380,7 @@
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
-      "2022-06-21": 1440,
-      "2022-06-20": 1440
+      "2022-06-21": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "30.33%",
+    "uptime": "30.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "39.11%",
+    "uptimeYear": "39.38%",
     "time": 198,
-    "timeDay": 313,
-    "timeWeek": 178,
-    "timeMonth": 210,
+    "timeDay": 121,
+    "timeWeek": 166,
+    "timeMonth": 205,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2023-01-27": 394,
@@ -620,8 +620,7 @@
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
-      "2022-06-21": 1440,
-      "2022-06-20": 1440
+      "2022-06-21": 1440
     }
   },
   {
@@ -630,7 +629,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "22.96%",
+    "uptime": "22.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -641,7 +640,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-19": 38,
+      "2023-06-20": 34,
+      "2023-06-19": 1440,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
       "2023-06-16": 1440,
@@ -1004,8 +1004,7 @@
       "2022-06-24": 1440,
       "2022-06-23": 1440,
       "2022-06-22": 1440,
-      "2022-06-21": 1440,
-      "2022-06-20": 1440
+      "2022-06-21": 1440
     }
   }
 ]
