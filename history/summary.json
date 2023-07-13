@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "21.31%",
+    "uptime": "21.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1036,
+    "time": 1037,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-12": 43,
+      "2023-07-13": 42,
+      "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
@@ -379,8 +380,7 @@
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
-      "2022-07-14": 1440,
-      "2022-07-13": 1440
+      "2022-07-14": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "down",
-    "uptime": "30.39%",
+    "uptime": "30.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "49.04%",
+    "uptimeMonth": "45.76%",
     "uptimeYear": "41.17%",
     "time": 194,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 187,
+    "timeMonth": 186,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2023-07-12": 43,
+      "2023-07-13": 42,
+      "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
@@ -614,8 +615,7 @@
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
-      "2022-07-14": 1440,
-      "2022-07-13": 1440
+      "2022-07-14": 1440
     }
   },
   {
@@ -624,18 +624,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "22.28%",
+    "uptime": "22.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 725,
+    "time": 727,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-12": 43,
+      "2023-07-13": 42,
+      "2023-07-12": 1440,
       "2023-07-11": 1440,
       "2023-07-10": 1440,
       "2023-07-09": 1440,
@@ -998,8 +999,7 @@
       "2022-07-17": 1440,
       "2022-07-16": 1440,
       "2022-07-15": 1440,
-      "2022-07-14": 1440,
-      "2022-07-13": 1440
+      "2022-07-14": 1440
     }
   }
 ]
