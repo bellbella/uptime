@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "18.88%",
+    "uptime": "18.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-20": 29,
+      "2023-10-21": 28,
+      "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
@@ -379,8 +380,7 @@
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
-      "2022-10-22": 1440,
-      "2022-10-21": 1440
+      "2022-10-22": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "30.70%",
+    "uptime": "30.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.23%",
-    "time": 179,
-    "timeDay": 195,
-    "timeWeek": 206,
-    "timeMonth": 192,
-    "timeYear": 179,
+    "uptimeYear": "50.50%",
+    "time": 180,
+    "timeDay": 293,
+    "timeWeek": 221,
+    "timeMonth": 191,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2023-09-16": 1367,
       "2023-09-15": 1440,
@@ -580,8 +580,7 @@
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
-      "2022-10-22": 1440,
-      "2022-10-21": 1440
+      "2022-10-22": 1440
     }
   },
   {
@@ -590,7 +589,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "19.73%",
+    "uptime": "19.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -601,7 +600,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-20": 30,
+      "2023-10-21": 28,
+      "2023-10-20": 1440,
       "2023-10-19": 1440,
       "2023-10-18": 1440,
       "2023-10-17": 1440,
@@ -964,8 +964,7 @@
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
-      "2022-10-22": 1440,
-      "2022-10-21": 1440
+      "2022-10-22": 1440
     }
   }
 ]
