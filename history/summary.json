@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "18.84%",
+    "uptime": "18.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-22": 32,
+      "2023-10-23": 30,
+      "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
@@ -379,8 +380,7 @@
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
-      "2022-10-24": 1440,
-      "2022-10-23": 1440
+      "2022-10-24": 1440
     }
   },
   {
@@ -389,14 +389,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "30.86%",
+    "uptime": "30.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.77%",
+    "uptimeYear": "51.05%",
     "time": 181,
-    "timeDay": 303,
-    "timeWeek": 249,
+    "timeDay": 190,
+    "timeWeek": 237,
     "timeMonth": 197,
     "timeYear": 181,
     "dailyMinutesDown": {
@@ -578,8 +578,7 @@
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
-      "2022-10-24": 1440,
-      "2022-10-23": 1440
+      "2022-10-24": 1440
     }
   },
   {
@@ -588,7 +587,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "19.69%",
+    "uptime": "19.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -599,7 +598,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-22": 32,
+      "2023-10-23": 30,
+      "2023-10-22": 1440,
       "2023-10-21": 1440,
       "2023-10-20": 1440,
       "2023-10-19": 1440,
@@ -962,8 +962,7 @@
       "2022-10-27": 1440,
       "2022-10-26": 1440,
       "2022-10-25": 1440,
-      "2022-10-24": 1440,
-      "2022-10-23": 1440
+      "2022-10-24": 1440
     }
   }
 ]
