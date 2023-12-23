@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "17.61%",
+    "uptime": "17.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-22": 31,
+      "2023-12-23": 30,
+      "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
@@ -379,8 +380,7 @@
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
-      "2022-12-24": 1440,
-      "2022-12-23": 1440
+      "2022-12-24": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "35.35%",
+    "uptime": "35.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "67.49%",
-    "time": 181,
-    "timeDay": 162,
-    "timeWeek": 204,
-    "timeMonth": 173,
-    "timeYear": 181,
+    "uptimeYear": "67.76%",
+    "time": 182,
+    "timeDay": 290,
+    "timeWeek": 224,
+    "timeMonth": 178,
+    "timeYear": 182,
     "dailyMinutesDown": {
       "2023-09-16": 1367,
       "2023-09-15": 1440,
@@ -517,8 +517,7 @@
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
-      "2022-12-24": 1440,
-      "2022-12-23": 1440
+      "2022-12-24": 1440
     }
   },
   {
@@ -527,7 +526,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "18.41%",
+    "uptime": "18.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -538,7 +537,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-22": 31,
+      "2023-12-23": 30,
+      "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
       "2023-12-19": 1440,
@@ -901,8 +901,7 @@
       "2022-12-27": 1440,
       "2022-12-26": 1440,
       "2022-12-25": 1440,
-      "2022-12-24": 1440,
-      "2022-12-23": 1440
+      "2022-12-24": 1440
     }
   }
 ]
