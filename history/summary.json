@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "16.10%",
+    "uptime": "16.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-19": 30,
+      "2024-03-20": 30,
+      "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
@@ -379,8 +380,7 @@
       "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
-      "2023-03-22": 1440,
-      "2023-03-21": 1440
+      "2023-03-22": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "40.89%",
+    "uptime": "40.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "77.41%",
     "time": 180,
-    "timeDay": 173,
-    "timeWeek": 170,
-    "timeMonth": 179,
+    "timeDay": 273,
+    "timeWeek": 172,
+    "timeMonth": 185,
     "timeYear": 181,
     "dailyMinutesDown": {
       "2023-12-25": 63,
@@ -492,7 +492,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "16.83%",
+    "uptime": "16.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -503,7 +503,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-19": 30,
+      "2024-03-20": 30,
+      "2024-03-19": 1440,
       "2024-03-18": 1440,
       "2024-03-17": 1440,
       "2024-03-16": 1440,
@@ -866,8 +867,7 @@
       "2023-03-25": 1440,
       "2023-03-24": 1440,
       "2023-03-23": 1440,
-      "2023-03-22": 1440,
-      "2023-03-21": 1440
+      "2023-03-22": 1440
     }
   }
 ]
