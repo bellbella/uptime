@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "13.97%",
+    "uptime": "13.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-23": 36,
+      "2024-08-24": 35,
+      "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -379,8 +380,7 @@
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
-      "2023-08-26": 1440,
-      "2023-08-25": 1440
+      "2023-08-26": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "48.73%",
+    "uptime": "48.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.16%",
+    "uptimeYear": "93.43%",
     "time": 181,
-    "timeDay": 96,
-    "timeWeek": 231,
-    "timeMonth": 189,
-    "timeYear": 179,
+    "timeDay": 280,
+    "timeWeek": 224,
+    "timeMonth": 193,
+    "timeYear": 180,
     "dailyMinutesDown": {
       "2023-12-25": 63,
       "2023-09-16": 1367,
@@ -422,8 +422,7 @@
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
-      "2023-08-26": 1440,
-      "2023-08-25": 1440
+      "2023-08-26": 1440
     }
   },
   {
@@ -432,7 +431,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "14.60%",
+    "uptime": "14.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -443,7 +442,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-23": 36,
+      "2024-08-24": 35,
+      "2024-08-23": 1440,
       "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
@@ -806,8 +806,7 @@
       "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
-      "2023-08-26": 1440,
-      "2023-08-25": 1440
+      "2023-08-26": 1440
     }
   }
 ]
