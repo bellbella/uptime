@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 40,
+      "2025-02-08": 761,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -388,10 +388,10 @@
     "url": "https://www.usertoken.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
-    "status": "up",
-    "uptime": "55.14%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "55.16%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 189,
@@ -399,7 +399,9 @@
     "timeWeek": 216,
     "timeMonth": 216,
     "timeYear": 191,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-08": 1
+    }
   },
   {
     "name": "PointLook",
@@ -418,7 +420,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 40,
+      "2025-02-08": 761,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
