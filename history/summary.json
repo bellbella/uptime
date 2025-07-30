@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "up",
-    "uptime": "12.92%",
+    "uptime": "12.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "8.64%",
-    "time": 472,
-    "timeDay": 115,
-    "timeWeek": 196,
-    "timeMonth": 317,
-    "timeYear": 472,
+    "uptimeYear": "8.91%",
+    "time": 465,
+    "timeDay": 128,
+    "timeWeek": 151,
+    "timeMonth": 316,
+    "timeYear": 465,
     "dailyMinutesDown": {
       "2025-07-21": 15,
       "2025-07-19": 26,
@@ -355,8 +355,7 @@
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
-      "2024-07-31": 1440,
-      "2024-07-30": 1440
+      "2024-07-31": 1440
     }
   },
   {
@@ -365,15 +364,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "59.40%",
+    "uptime": "59.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.75%",
     "time": 196,
-    "timeDay": 163,
-    "timeWeek": 180,
-    "timeMonth": 224,
+    "timeDay": 114,
+    "timeWeek": 166,
+    "timeMonth": 223,
     "timeYear": 205,
     "dailyMinutesDown": {
       "2025-02-20": 581,
@@ -397,7 +396,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "11.34%",
+    "uptime": "11.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -408,7 +407,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-29": 59,
+      "2025-07-30": 55,
+      "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
       "2025-07-26": 1440,
@@ -771,8 +771,7 @@
       "2024-08-03": 1440,
       "2024-08-02": 1440,
       "2024-08-01": 1440,
-      "2024-07-31": 1440,
-      "2024-07-30": 1440
+      "2024-07-31": 1440
     }
   }
 ]
