@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "up",
-    "uptime": "13.55%",
-    "uptimeDay": "98.82%",
-    "uptimeWeek": "88.39%",
-    "uptimeMonth": "97.09%",
-    "uptimeYear": "11.70%",
-    "time": 495,
-    "timeDay": 2344,
-    "timeWeek": 955,
-    "timeMonth": 324,
-    "timeYear": 495,
+    "uptime": "13.60%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "90.28%",
+    "uptimeMonth": "97.14%",
+    "uptimeYear": "11.97%",
+    "time": 492,
+    "timeDay": 256,
+    "timeWeek": 877,
+    "timeMonth": 322,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2025-08-09": 17,
       "2025-08-04": 1019,
@@ -347,8 +347,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
-      "2024-08-12": 1440,
-      "2024-08-11": 1440
+      "2024-08-12": 1440
     }
   },
   {
@@ -357,15 +356,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "59.71%",
+    "uptime": "59.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.75%",
     "time": 197,
-    "timeDay": 359,
-    "timeWeek": 289,
-    "timeMonth": 233,
+    "timeDay": 159,
+    "timeWeek": 257,
+    "timeMonth": 226,
     "timeYear": 207,
     "dailyMinutesDown": {
       "2025-02-20": 581,
@@ -389,7 +388,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "11.25%",
+    "uptime": "11.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +399,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-10": 58,
+      "2025-08-11": 56,
+      "2025-08-10": 1440,
       "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
@@ -763,8 +763,7 @@
       "2024-08-15": 1440,
       "2024-08-14": 1440,
       "2024-08-13": 1440,
-      "2024-08-12": 1440,
-      "2024-08-11": 1440
+      "2024-08-12": 1440
     }
   }
 ]
