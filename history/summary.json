@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "up",
-    "uptime": "15.41%",
+    "uptime": "15.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.76%",
-    "uptimeYear": "20.99%",
-    "time": 508,
-    "timeDay": 280,
-    "timeWeek": 879,
-    "timeMonth": 550,
-    "timeYear": 508,
+    "uptimeYear": "21.27%",
+    "time": 506,
+    "timeDay": 389,
+    "timeWeek": 898,
+    "timeMonth": 551,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2025-09-04": 104,
       "2025-08-09": 17,
@@ -314,8 +314,7 @@
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   },
   {
@@ -324,15 +323,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "60.59%",
+    "uptime": "60.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.75%",
     "time": 199,
-    "timeDay": 168,
-    "timeWeek": 189,
-    "timeMonth": 209,
+    "timeDay": 209,
+    "timeWeek": 197,
+    "timeMonth": 211,
     "timeYear": 208,
     "dailyMinutesDown": {
       "2025-02-20": 581,
@@ -356,7 +355,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "11.01%",
+    "uptime": "11.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -367,7 +366,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-09-13": 41,
+      "2025-09-14": 48,
+      "2025-09-13": 1440,
       "2025-09-12": 1440,
       "2025-09-11": 1440,
       "2025-09-10": 1440,
@@ -730,8 +730,7 @@
       "2024-09-18": 1440,
       "2024-09-17": 1440,
       "2024-09-16": 1440,
-      "2024-09-15": 1440,
-      "2024-09-14": 1440
+      "2024-09-15": 1440
     }
   }
 ]
