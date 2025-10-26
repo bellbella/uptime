@@ -4,18 +4,19 @@
     "url": "https://www.bellbella.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
-    "status": "up",
-    "uptime": "17.61%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.21%",
+    "status": "down",
+    "uptime": "17.66%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "32.48%",
-    "time": 644,
-    "timeDay": 8931,
-    "timeWeek": 2408,
-    "timeMonth": 955,
-    "timeYear": 644,
+    "uptimeYear": "32.75%",
+    "time": 641,
+    "timeDay": 205,
+    "timeWeek": 2413,
+    "timeMonth": 946,
+    "timeYear": 641,
     "dailyMinutesDown": {
+      "2025-10-26": 1,
       "2025-10-20": 26,
       "2025-10-19": 44,
       "2025-10-18": 9,
@@ -275,8 +276,7 @@
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
-      "2024-10-27": 1440,
-      "2024-10-26": 1440
+      "2024-10-27": 1440
     }
   },
   {
@@ -285,15 +285,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "61.61%",
+    "uptime": "61.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.75%",
     "time": 204,
-    "timeDay": 271,
-    "timeWeek": 212,
-    "timeMonth": 223,
+    "timeDay": 168,
+    "timeWeek": 206,
+    "timeMonth": 219,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2025-02-20": 581,
@@ -317,7 +317,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "10.72%",
+    "uptime": "10.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -328,7 +328,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-25": 45,
+      "2025-10-26": 1,
+      "2025-10-25": 1440,
       "2025-10-24": 1440,
       "2025-10-23": 1440,
       "2025-10-22": 1440,
@@ -691,8 +692,7 @@
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
-      "2024-10-27": 1440,
-      "2024-10-26": 1440
+      "2024-10-27": 1440
     }
   }
 ]
