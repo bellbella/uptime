@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "up",
-    "uptime": "17.91%",
+    "uptime": "17.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.85%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "34.09%",
-    "time": 617,
-    "timeDay": 117,
-    "timeWeek": 1671,
-    "timeMonth": 834,
-    "timeYear": 617,
+    "uptimeYear": "34.36%",
+    "time": 616,
+    "timeDay": 501,
+    "timeWeek": 244,
+    "timeMonth": 832,
+    "timeYear": 616,
     "dailyMinutesDown": {
       "2025-10-29": 69,
       "2025-10-27": 21,
@@ -272,8 +272,7 @@
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 1440
+      "2024-11-02": 1440
     }
   },
   {
@@ -282,15 +281,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "61.76%",
+    "uptime": "61.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.75%",
-    "time": 205,
-    "timeDay": 284,
-    "timeWeek": 246,
-    "timeMonth": 224,
+    "time": 206,
+    "timeDay": 302,
+    "timeWeek": 250,
+    "timeMonth": 225,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2025-02-20": 581,
@@ -314,7 +313,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "10.68%",
+    "uptime": "10.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -325,7 +324,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-10-31": 47,
+      "2025-11-01": 51,
+      "2025-10-31": 1440,
       "2025-10-30": 1440,
       "2025-10-29": 1440,
       "2025-10-28": 1440,
@@ -688,8 +688,7 @@
       "2024-11-05": 1440,
       "2024-11-04": 1440,
       "2024-11-03": 1440,
-      "2024-11-02": 1440,
-      "2024-11-01": 1440
+      "2024-11-02": 1440
     }
   }
 ]
