@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "up",
-    "uptime": "18.01%",
+    "uptime": "18.06%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.37%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "99.32%",
-    "uptimeYear": "34.64%",
-    "time": 616,
-    "timeDay": 647,
-    "timeWeek": 285,
+    "uptimeYear": "34.91%",
+    "time": 614,
+    "timeDay": 269,
+    "timeWeek": 261,
     "timeMonth": 835,
-    "timeYear": 616,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2025-10-29": 69,
       "2025-10-27": 21,
@@ -270,8 +270,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   },
   {
@@ -280,15 +279,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "61.80%",
+    "uptime": "61.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.75%",
     "time": 206,
-    "timeDay": 261,
-    "timeWeek": 263,
-    "timeMonth": 225,
+    "timeDay": 181,
+    "timeWeek": 267,
+    "timeMonth": 224,
     "timeYear": 214,
     "dailyMinutesDown": {
       "2025-02-20": 581,
@@ -312,7 +311,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "10.67%",
+    "uptime": "10.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -323,7 +322,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-02": 52,
+      "2025-11-03": 51,
+      "2025-11-02": 1440,
       "2025-11-01": 1440,
       "2025-10-31": 1440,
       "2025-10-30": 1440,
@@ -686,8 +686,7 @@
       "2024-11-07": 1440,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
-      "2024-11-04": 1440,
-      "2024-11-03": 1440
+      "2024-11-04": 1440
     }
   }
 ]
