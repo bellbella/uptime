@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "18.78%",
+    "uptime": "18.77%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "8.25%",
-    "uptimeMonth": "36.71%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "33.43%",
     "uptimeYear": "40.04%",
     "time": 581,
-    "timeDay": 199,
-    "timeWeek": 483,
-    "timeMonth": 434,
+    "timeDay": 478,
+    "timeWeek": 356,
+    "timeMonth": 445,
     "timeYear": 581,
     "dailyMinutesDown": {
-      "2025-12-11": 53,
+      "2025-12-12": 52,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -256,8 +257,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   },
   {
@@ -266,16 +266,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "62.70%",
+    "uptime": "62.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.75%",
-    "time": 210,
-    "timeDay": 111,
-    "timeWeek": 201,
-    "timeMonth": 216,
-    "timeYear": 213,
+    "time": 213,
+    "timeDay": 1330,
+    "timeWeek": 341,
+    "timeMonth": 250,
+    "timeYear": 216,
     "dailyMinutesDown": {
       "2025-02-20": 581,
       "2025-02-19": 1440,
@@ -298,7 +298,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "10.42%",
+    "uptime": "10.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -309,7 +309,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-11": 53,
+      "2025-12-12": 52,
+      "2025-12-11": 1440,
       "2025-12-10": 1440,
       "2025-12-09": 1440,
       "2025-12-08": 1440,
@@ -672,8 +673,7 @@
       "2024-12-16": 1440,
       "2024-12-15": 1440,
       "2024-12-14": 1440,
-      "2024-12-13": 1440,
-      "2024-12-12": 1440
+      "2024-12-13": 1440
     }
   }
 ]
