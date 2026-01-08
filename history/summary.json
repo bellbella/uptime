@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "up",
-    "uptime": "18.73%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "12.36%",
-    "uptimeYear": "41.23%",
-    "time": 548,
-    "timeDay": 946,
-    "timeWeek": 478,
-    "timeMonth": 336,
-    "timeYear": 548,
+    "uptime": "18.74%",
+    "uptimeDay": "22.76%",
+    "uptimeWeek": "3.25%",
+    "uptimeMonth": "13.11%",
+    "uptimeYear": "41.29%",
+    "time": 547,
+    "timeDay": 841,
+    "timeWeek": 461,
+    "timeMonth": 333,
+    "timeYear": 547,
     "dailyMinutesDown": {
       "2026-01-07": 1166,
       "2026-01-06": 1440,
@@ -254,8 +254,7 @@
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
-      "2025-01-09": 1440,
-      "2025-01-08": 1440
+      "2025-01-09": 1440
     }
   },
   {
@@ -270,10 +269,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.75%",
     "time": 214,
-    "timeDay": 238,
-    "timeWeek": 198,
-    "timeMonth": 265,
-    "timeYear": 218,
+    "timeDay": 101,
+    "timeWeek": 175,
+    "timeMonth": 263,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2025-02-20": 581,
       "2025-02-19": 1440,
@@ -307,7 +306,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-07": 1167,
+      "2026-01-08": 54,
+      "2026-01-07": 1440,
       "2026-01-06": 1440,
       "2026-01-05": 1440,
       "2026-01-04": 1440,
@@ -670,8 +670,7 @@
       "2025-01-12": 1440,
       "2025-01-11": 1440,
       "2025-01-10": 1440,
-      "2025-01-09": 1440,
-      "2025-01-08": 1440
+      "2025-01-09": 1440
     }
   }
 ]
