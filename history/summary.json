@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "up",
-    "uptime": "18.83%",
+    "uptime": "18.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "31.81%",
-    "uptimeMonth": "19.68%",
-    "uptimeYear": "41.84%",
-    "time": 545,
-    "timeDay": 281,
-    "timeWeek": 460,
-    "timeMonth": 327,
-    "timeYear": 545,
+    "uptimeWeek": "46.16%",
+    "uptimeMonth": "22.99%",
+    "uptimeYear": "42.12%",
+    "time": 544,
+    "timeDay": 268,
+    "timeWeek": 446,
+    "timeMonth": 329,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2026-01-07": 1166,
       "2026-01-06": 1440,
@@ -251,8 +251,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   },
   {
@@ -261,14 +260,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "63.36%",
+    "uptime": "63.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.75%",
     "time": 214,
-    "timeDay": 216,
-    "timeWeek": 187,
+    "timeDay": 116,
+    "timeWeek": 181,
     "timeMonth": 267,
     "timeYear": 218,
     "dailyMinutesDown": {
@@ -293,7 +292,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "10.23%",
+    "uptime": "10.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -304,7 +303,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-10": 53,
+      "2026-01-11": 59,
+      "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
       "2026-01-07": 1440,
@@ -667,8 +667,7 @@
       "2025-01-15": 1440,
       "2025-01-14": 1440,
       "2025-01-13": 1440,
-      "2025-01-12": 1440,
-      "2025-01-11": 1440
+      "2025-01-12": 1440
     }
   }
 ]
