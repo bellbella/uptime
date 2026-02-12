@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "18.70%",
+    "uptime": "18.69%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "5.26%",
-    "uptimeMonth": "6.82%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "3.55%",
     "uptimeYear": "42.85%",
     "time": 517,
-    "timeDay": 403,
-    "timeWeek": 346,
-    "timeMonth": 332,
+    "timeDay": 379,
+    "timeWeek": 385,
+    "timeMonth": 335,
     "timeYear": 517,
     "dailyMinutesDown": {
-      "2026-02-11": 75,
+      "2026-02-12": 67,
+      "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
@@ -250,8 +251,7 @@
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
-      "2025-02-13": 1440,
-      "2025-02-12": 1440
+      "2025-02-13": 1440
     }
   },
   {
@@ -260,16 +260,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "64.05%",
+    "uptime": "64.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.44%",
+    "uptimeYear": "97.71%",
     "time": 217,
-    "timeDay": 328,
-    "timeWeek": 224,
-    "timeMonth": 227,
-    "timeYear": 219,
+    "timeDay": 160,
+    "timeWeek": 233,
+    "timeMonth": 228,
+    "timeYear": 218,
     "dailyMinutesDown": {
       "2025-02-20": 581,
       "2025-02-19": 1440,
@@ -278,8 +278,7 @@
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
-      "2025-02-13": 1440,
-      "2025-02-12": 1440
+      "2025-02-13": 1440
     }
   },
   {
@@ -288,7 +287,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "10.04%",
+    "uptime": "10.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -299,7 +298,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-02-11": 75,
+      "2026-02-12": 67,
+      "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
       "2026-02-08": 1440,
@@ -662,8 +662,7 @@
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
-      "2025-02-13": 1440,
-      "2025-02-12": 1440
+      "2025-02-13": 1440
     }
   }
 ]
