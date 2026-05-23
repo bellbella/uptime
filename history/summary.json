@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "up",
-    "uptime": "19.25%",
+    "uptime": "19.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "53.48%",
-    "uptimeYear": "50.75%",
-    "time": 484,
-    "timeDay": 9891,
-    "timeWeek": 1669,
-    "timeMonth": 449,
-    "timeYear": 484,
+    "uptimeMonth": "56.74%",
+    "uptimeYear": "51.02%",
+    "time": 483,
+    "timeDay": 114,
+    "timeWeek": 1629,
+    "timeMonth": 444,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2026-05-12": 367,
       "2026-05-10": 161,
@@ -233,8 +233,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   },
   {
@@ -243,15 +242,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "66.02%",
+    "uptime": "66.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 228,
-    "timeDay": 61,
-    "timeWeek": 221,
-    "timeMonth": 374,
+    "timeDay": 64,
+    "timeWeek": 192,
+    "timeMonth": 367,
     "timeYear": 233,
     "dailyMinutesDown": {}
   },
@@ -261,7 +260,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "9.49%",
+    "uptime": "9.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -272,7 +271,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-22": 126,
+      "2026-05-23": 115,
+      "2026-05-22": 1440,
       "2026-05-21": 1440,
       "2026-05-20": 1440,
       "2026-05-19": 1440,
@@ -635,8 +635,7 @@
       "2025-05-27": 1440,
       "2025-05-26": 1440,
       "2025-05-25": 1440,
-      "2025-05-24": 1440,
-      "2025-05-23": 1440
+      "2025-05-24": 1440
     }
   }
 ]
