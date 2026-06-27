@@ -6,17 +6,16 @@
     "slug": "bell-bella",
     "status": "down",
     "uptime": "20.69%",
-    "uptimeDay": "99.66%",
+    "uptimeDay": "75.71%",
     "uptimeWeek": "72.64%",
-    "uptimeMonth": "92.89%",
+    "uptimeMonth": "92.10%",
     "uptimeYear": "59.96%",
     "time": 465,
-    "timeDay": 213,
-    "timeWeek": 172,
-    "timeMonth": 250,
+    "timeDay": 285,
+    "timeWeek": 193,
+    "timeMonth": 251,
     "timeYear": 465,
     "dailyMinutesDown": {
-      "2025-06-27": 516,
       "2025-07-04": 32,
       "2025-07-05": 43,
       "2025-07-08": 44,
@@ -203,7 +202,8 @@
       "2026-06-21": 1090,
       "2026-06-20": 1440,
       "2026-06-19": 580,
-      "2026-06-26": 5
+      "2026-06-27": 121,
+      "2026-06-26": 228
     }
   },
   {
@@ -217,10 +217,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 225,
-    "timeDay": 103,
-    "timeWeek": 180,
-    "timeMonth": 185,
+    "time": 226,
+    "timeDay": 318,
+    "timeWeek": 205,
+    "timeMonth": 189,
     "timeYear": 235,
     "dailyMinutesDown": {}
   },
@@ -230,7 +230,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "9.31%",
+    "uptime": "9.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -241,7 +241,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 1217,
+      "2026-06-27": 122,
+      "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
@@ -604,8 +605,7 @@
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
-      "2025-06-28": 1440,
-      "2025-06-27": 1440
+      "2025-06-28": 1440
     }
   }
 ]
