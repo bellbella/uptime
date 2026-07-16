@@ -4,15 +4,15 @@
     "url": "https://www.bellbella.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
-    "status": "down",
+    "status": "up",
     "uptime": "21.23%",
-    "uptimeDay": "61.95%",
-    "uptimeWeek": "94.56%",
-    "uptimeMonth": "76.12%",
-    "uptimeYear": "58.73%",
+    "uptimeDay": "30.39%",
+    "uptimeWeek": "90.06%",
+    "uptimeMonth": "75.08%",
+    "uptimeYear": "58.64%",
     "time": 448,
-    "timeDay": 263,
-    "timeWeek": 210,
+    "timeDay": 301,
+    "timeWeek": 233,
     "timeMonth": 214,
     "timeYear": 436,
     "dailyMinutesDown": {
@@ -206,7 +206,7 @@
       "2026-07-04": 1059,
       "2026-07-03": 195,
       "2026-07-15": 464,
-      "2026-07-16": 84
+      "2026-07-16": 538
     }
   },
   {
@@ -223,7 +223,7 @@
     "time": 225,
     "timeDay": 174,
     "timeWeek": 179,
-    "timeMonth": 217,
+    "timeMonth": 215,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -244,7 +244,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 84,
+      "2026-07-16": 543,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
