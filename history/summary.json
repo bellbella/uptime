@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "up",
-    "uptime": "21.24%",
-    "uptimeDay": "21.90%",
+    "uptime": "21.25%",
+    "uptimeDay": "60.18%",
     "uptimeWeek": "88.84%",
     "uptimeMonth": "74.80%",
     "uptimeYear": "58.62%",
     "time": 447,
-    "timeDay": 308,
-    "timeWeek": 247,
-    "timeMonth": 219,
-    "timeYear": 435,
+    "timeDay": 384,
+    "timeWeek": 268,
+    "timeMonth": 217,
+    "timeYear": 436,
     "dailyMinutesDown": {
-      "2025-07-17": 22,
       "2025-07-19": 26,
       "2025-07-21": 15,
       "2025-08-02": 20,
@@ -221,9 +220,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 174,
-    "timeWeek": 179,
-    "timeMonth": 215,
+    "timeDay": 307,
+    "timeWeek": 183,
+    "timeMonth": 217,
     "timeYear": 234,
     "dailyMinutesDown": {}
   },
@@ -244,7 +243,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-16": 893,
+      "2026-07-17": 87,
+      "2026-07-16": 1440,
       "2026-07-15": 1440,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
@@ -607,8 +607,7 @@
       "2025-07-21": 1440,
       "2025-07-20": 1440,
       "2025-07-19": 1440,
-      "2025-07-18": 1440,
-      "2025-07-17": 1440
+      "2025-07-18": 1440
     }
   }
 ]
