@@ -6,14 +6,14 @@
     "slug": "bell-bella",
     "status": "down",
     "uptime": "21.57%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "98.23%",
-    "uptimeMonth": "81.49%",
-    "uptimeYear": "58.60%",
-    "time": 445,
-    "timeDay": 237,
-    "timeWeek": 312,
-    "timeMonth": 241,
+    "uptimeDay": "67.35%",
+    "uptimeWeek": "93.61%",
+    "uptimeMonth": "80.43%",
+    "uptimeYear": "58.51%",
+    "time": 444,
+    "timeDay": 202,
+    "timeWeek": 291,
+    "timeMonth": 239,
     "timeYear": 439,
     "dailyMinutesDown": {
       "2025-08-02": 20,
@@ -205,7 +205,8 @@
       "2026-07-15": 464,
       "2026-07-16": 660,
       "2026-07-21": 174,
-      "2026-07-24": 5
+      "2026-07-25": 87,
+      "2026-07-24": 383
     }
   },
   {
@@ -220,10 +221,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 148,
-    "timeWeek": 224,
-    "timeMonth": 217,
-    "timeYear": 234,
+    "timeDay": 94,
+    "timeWeek": 196,
+    "timeMonth": 212,
+    "timeYear": 233,
     "dailyMinutesDown": {}
   },
   {
@@ -243,7 +244,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-24": 1062,
+      "2026-07-25": 87,
+      "2026-07-24": 1440,
       "2026-07-23": 1440,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
@@ -606,8 +608,7 @@
       "2025-07-29": 1440,
       "2025-07-28": 1440,
       "2025-07-27": 1440,
-      "2025-07-26": 1440,
-      "2025-07-25": 1440
+      "2025-07-26": 1440
     }
   }
 ]
