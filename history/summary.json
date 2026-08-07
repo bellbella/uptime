@@ -6,7 +6,7 @@
     "slug": "bell-bella",
     "status": "up",
     "uptime": "21.76%",
-    "uptimeDay": "0.34%",
+    "uptimeDay": "1.34%",
     "uptimeWeek": "26.24%",
     "uptimeMonth": "74.56%",
     "uptimeYear": "56.95%",
@@ -250,7 +250,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-07": 106,
+      "2026-08-07": 121,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
