@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.bellbella.com.ico",
     "slug": "bell-bella",
     "status": "down",
-    "uptime": "22.59%",
+    "uptime": "22.58%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "4.96%",
-    "uptimeMonth": "16.35%",
-    "uptimeYear": "51.39%",
+    "uptimeWeek": "4.49%",
+    "uptimeMonth": "13.40%",
+    "uptimeYear": "51.15%",
     "time": 429,
-    "timeDay": 256,
-    "timeWeek": 281,
-    "timeMonth": 309,
+    "timeDay": 223,
+    "timeWeek": 287,
+    "timeMonth": 312,
     "timeYear": 421,
     "dailyMinutesDown": {
       "2025-09-04": 104,
@@ -231,7 +231,8 @@
       "2026-08-25": 1325,
       "2026-08-24": 1440,
       "2026-08-26": 1148,
-      "2026-08-29": 277,
+      "2026-08-30": 129,
+      "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1439
     }
@@ -242,16 +243,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.usertoken.com.ico",
     "slug": "user-token",
     "status": "up",
-    "uptime": "67.78%",
+    "uptime": "67.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 227,
-    "timeDay": 180,
-    "timeWeek": 191,
-    "timeMonth": 216,
-    "timeYear": 235,
+    "timeDay": 223,
+    "timeWeek": 209,
+    "timeMonth": 224,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -260,7 +261,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pointlook.com.ico",
     "slug": "point-look",
     "status": "down",
-    "uptime": "9.00%",
+    "uptime": "8.99%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -271,7 +272,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-29": 277,
+      "2026-08-30": 129,
+      "2026-08-29": 1440,
       "2026-08-28": 1440,
       "2026-08-27": 1440,
       "2026-08-26": 1440,
@@ -634,8 +636,7 @@
       "2025-09-03": 1440,
       "2025-09-02": 1440,
       "2025-09-01": 1440,
-      "2025-08-31": 1440,
-      "2025-08-30": 1440
+      "2025-08-31": 1440
     }
   }
 ]
